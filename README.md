@@ -42,7 +42,7 @@ You can click the **"Edit Values"** button to change the percentage and duration
 -   moxy for testing and suggesting reload scenario folder after generation
 
 -   testing / using during development process
-    tilt, にしろうさん, xvv
+    tilt, にしろうさん, xvv, moxy
 
 
 ## License
